@@ -440,6 +440,19 @@ a:active {
     margin: 40px 0 0 20px;
     width: 17%;
 }
+
+.oae-content-column .single-column {
+    box-size: border;
+}
+
+.oae-content-column .two-column {
+    box-size: border;
+}
+
+.oae-content-column .three-column {
+    box-size: border;
+}
+
 .oae-content-column#oae-center-column {
     float: left;
     width: 58%;
